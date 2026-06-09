@@ -3,6 +3,8 @@ from dash import html, dcc
 import plotly.express as px
 import pandas as pd
 
+print("toda Neta")
+
 # Sample data
 df = pd.DataFrame({
     "Category": ["A", "B", "C", "D"],
